@@ -1,2 +1,15 @@
-
+.holder{
+	height:100%;
+	width:100%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+}
 /* Your CSS Code here. */
+.item-1{
+	height:100px;
+	width:100px;
+	background-color:red;
+	margin-top:50%;
+}
